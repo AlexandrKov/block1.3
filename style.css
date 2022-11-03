@@ -1,6 +1,7 @@
 .body {
     width: 320px;
-    border: black;
+    height: 597px;
+    border: solid;
 }
 .header {
     width: 320px;
@@ -36,7 +37,7 @@ background-color: #ff3e79;
 }
 .button-checkstatus {
     margin-left: 16px;
-    background-image: url(Group.png);
+    background-image: url("img/Group.png");
     background-repeat: no-repeat;
     background-position: center;
 }
