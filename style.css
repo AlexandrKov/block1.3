@@ -1,5 +1,6 @@
-body {
+.body {
     width: 320px;
+    border: black;
 }
 .header {
     width: 320px;
@@ -28,13 +29,22 @@ background-color: #ff3e79;
     background-repeat: no-repeat;
     background-position: center;
 }
+.header-logo {
+    background-image: url(Group1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .button-checkstatus {
     margin-left: 16px;
     background-image: url(Group.png);
     background-repeat: no-repeat;
     background-position: center;
 }
+.main {
+    background: #f8f8f8;
+}
 .text {
 margin-left: 16px;
 margin-right: 16px;
+margin-bottom: 56px;
 }
