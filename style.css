@@ -44,6 +44,13 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+.h1 {
+    font-family: "TT Lakes";
+    font-size: 28px;
+    line-height: 40px;
+    letter-spacing: -0.6px;
+    color: #1b1c21;
+}
 .text {
     font-family: "TT Lakes";
     font-size: 14px;
