@@ -1,11 +1,13 @@
 .body {
     width: 320px;
     height: 597px;
+    background-color: #f8f8f8;
     border: solid;
 }
 .header {
     width: 320px;
     height: 88px;
+    background-color:#ffffff;
 }
 .header-menu {
 display: flex;
@@ -15,23 +17,24 @@ width: 40px;
 height: 40px;
 border-radius: 20px;
 margin-top: 24px;
+margin-bottom: 24px;
 background-color: #ff3e79;
 }
 
 .button-burger {
     margin-left: 16px;
-    background-image: url(icon1.png);
+    background-image: url("img/icon1.png");
     background-repeat: no-repeat;
     background-position: center;
 }
 .button-repair {
     margin-left: 152px;
-    background-image: url(icon.png);
+    background-image: url("img/icon.png");
     background-repeat: no-repeat;
     background-position: center;
 }
 .header-logo {
-    background-image: url(Group1.png);
+    background-image: url("img/Group1.png");
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -40,9 +43,6 @@ background-color: #ff3e79;
     background-image: url("img/Group.png");
     background-repeat: no-repeat;
     background-position: center;
-}
-.main {
-    background: #f8f8f8;
 }
 .text {
 margin-left: 16px;
