@@ -10,15 +10,15 @@
     background-color:#ffffff;
 }
 .header-menu {
-display: flex;
+    display: flex;
 }
 .button {
-width: 40px;
-height: 40px;
-border-radius: 20px;
-margin-top: 24px;
-margin-bottom: 24px;
-background-color: #ff3e79;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    background-color: #ff3e79;
 }
 
 .button-burger {
@@ -45,7 +45,24 @@ background-color: #ff3e79;
     background-position: center;
 }
 .text {
-margin-left: 16px;
-margin-right: 16px;
-margin-bottom: 56px;
+    font-family: "TT Lakes";
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: -0.2px;
+    color: #1b1c21;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 16px;
+}
+.expand {
+    background-image: url("img/icon2.png");
+    background-repeat: no-repeat;
+    background-position: center;  
+}
+.fyrther {
+    font-family: "TT Lakes";
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.2px;
+    color: #1b1c21;
 }
