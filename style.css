@@ -13,15 +13,21 @@ width: 40px;
 height: 40px;
 border-radius: 20px;
 margin-top: 24px;
+background-color: #ff3e79;
 }
 
 .button-burger {
     margin-left: 16px;
 }
 .button-repair {
-    margin-left: 208px;
-    background-image: url(icon.png) no-repeat center;
+    margin-left: 152px;
+    background-image: url(icon.png);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .button-checkstatus {
-    margin-left: 264px;
+    margin-left: 16px;
+    background-image: url(Group.png);
+    background-repeat: no-repeat;
+    background-position: center;
 }
