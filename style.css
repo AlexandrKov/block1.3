@@ -17,12 +17,9 @@ margin-top: 24px;
 }
 .button-repair {
     margin-left: 208px;
+}
+.repair {
     background-image: url(icon.png) no-repeat center;
-    position: absolute;
-    left: 82.5%;
-    right: 5%;
-    top: 4.02%;
-    bottom: 89.28%;
 }
 .button-checkstatus {
     margin-left: 264px;
