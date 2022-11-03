@@ -5,6 +5,9 @@ body {
     width: 320px;
     height: 88px;
 }
+.header-menu {
+display: flex;
+}
 .button {
 width: 40px;
 height: 40px;
@@ -17,8 +20,6 @@ margin-top: 24px;
 }
 .button-repair {
     margin-left: 208px;
-}
-.repair {
     background-image: url(icon.png) no-repeat center;
 }
 .button-checkstatus {
