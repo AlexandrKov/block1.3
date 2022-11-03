@@ -9,6 +9,15 @@ body {
 width: 40px;
 height: 40px;
 border-radius: 20px;
-background-color: #ff3e79;
+background: #ff3e79;
 margin-top: 24px;
+}
+.button-burger {
+    margin-left: 16px;
+}
+.button-repair {
+    margin-left: 208px;
+}
+.button-checkstatus {
+    margin-left: 264px;
 }
