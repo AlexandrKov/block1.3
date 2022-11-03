@@ -18,6 +18,9 @@ background-color: #ff3e79;
 
 .button-burger {
     margin-left: 16px;
+    background-image: url(icon1.png);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .button-repair {
     margin-left: 152px;
@@ -30,4 +33,8 @@ background-color: #ff3e79;
     background-image: url(Group.png);
     background-repeat: no-repeat;
     background-position: center;
+}
+.text {
+margin-left: 16px;
+margin-right: 16px;
 }
