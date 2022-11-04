@@ -23,6 +23,7 @@
     margin-top: 24px;
     margin-bottom: 24px;
     background-color: #ff3e79;
+    border-color: #ff3e79;
 }
 
 .button-burger {
@@ -66,9 +67,12 @@
     margin-bottom: 16px;
 }
 .expand {
+    width: 24px;
+    height: 24px;
     background-image: url("img/icon2.png");
     background-repeat: no-repeat;
-    background-position: center;  
+    background-position: center; 
+    border-color: #f8f8f8; 
 }
 .fyrther {
     font-family: "TT Lakes";
